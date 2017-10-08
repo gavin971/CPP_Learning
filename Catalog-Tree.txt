@@ -1,0 +1,692 @@
+Cpp-Primer
+├── ch01
+│   ├── README.md
+│   ├── ex1_1.cpp
+│   ├── ex1_10.cpp
+│   ├── ex1_11.cpp
+│   ├── ex1_16.cpp
+│   ├── ex1_20.cpp
+│   ├── ex1_21.cpp
+│   ├── ex1_22.cpp
+│   ├── ex1_23.cpp
+│   └── ex1_9.cpp
+├── ch02
+│   ├── README.md
+│   ├── ex2_34.cpp
+│   ├── ex2_35.cpp
+│   ├── ex2_4.cpp
+│   ├── ex2_42.h
+│   ├── ex2_42_1.cpp
+│   ├── ex2_42_2.cpp
+│   └── ex2_42_3.cpp
+├── ch03
+│   ├── README.md
+│   ├── ex3_10.cpp
+│   ├── ex3_14.cpp
+│   ├── ex3_15.cpp
+│   ├── ex3_16.cpp
+│   ├── ex3_17.cpp
+│   ├── ex3_18.cpp
+│   ├── ex3_19.cpp
+│   ├── ex3_1a.cpp
+│   ├── ex3_1b.cpp
+│   ├── ex3_20a.cpp
+│   ├── ex3_20b.cpp
+│   ├── ex3_21.cpp
+│   ├── ex3_22.cpp
+│   ├── ex3_23.cpp
+│   ├── ex3_24.cpp
+│   ├── ex3_25.cpp
+│   ├── ex3_2a.cpp
+│   ├── ex3_2b.cpp
+│   ├── ex3_31.cpp
+│   ├── ex3_32.cpp
+│   ├── ex3_35.cpp
+│   ├── ex3_36.cpp
+│   ├── ex3_39.cpp
+│   ├── ex3_40.cpp
+│   ├── ex3_41.cpp
+│   ├── ex3_42.cpp
+│   ├── ex3_43.cpp
+│   ├── ex3_44.cpp
+│   ├── ex3_45.cpp
+│   ├── ex3_4a.cpp
+│   ├── ex3_4b.cpp
+│   ├── ex3_5a.cpp
+│   ├── ex3_5b.cpp
+│   ├── ex3_6.cpp
+│   └── ex3_8.cpp
+├── ch04
+│   ├── README.md
+│   ├── ex4_21.cpp
+│   ├── ex4_22.cpp
+│   └── ex4_28.cpp
+├── ch05
+│   ├── README.md
+│   ├── ex5_10.cpp
+│   ├── ex5_11.cpp
+│   ├── ex5_12.cpp
+│   ├── ex5_14.cpp
+│   ├── ex5_17.cpp
+│   ├── ex5_19.cpp
+│   ├── ex5_20.cpp
+│   ├── ex5_21.cpp
+│   ├── ex5_23.cpp
+│   ├── ex5_24.cpp
+│   ├── ex5_25.cpp
+│   ├── ex5_5.cpp
+│   ├── ex5_6.cpp
+│   └── ex5_9.cpp
+├── ch06
+│   ├── Chapter6.h
+│   ├── README.md
+│   ├── ex6_10.cpp
+│   ├── ex6_11.cpp
+│   ├── ex6_12.cpp
+│   ├── ex6_17.cpp
+│   ├── ex6_21.cpp
+│   ├── ex6_22.cpp
+│   ├── ex6_23.cpp
+│   ├── ex6_25_26.cpp
+│   ├── ex6_27.cpp
+│   ├── ex6_33.cpp
+│   ├── ex6_42.cpp
+│   ├── ex6_44.cpp
+│   ├── ex6_47.cpp
+│   ├── ex6_51.cpp
+│   ├── ex6_54_55_56.cpp
+│   ├── fact.cc
+│   └── factMain.cc
+├── ch07
+│   ├── README.md
+│   ├── ex7_01.cpp
+│   ├── ex7_02.h
+│   ├── ex7_03.cpp
+│   ├── ex7_04.h
+│   ├── ex7_05.h
+│   ├── ex7_06.h
+│   ├── ex7_07.cpp
+│   ├── ex7_09.h
+│   ├── ex7_11.cpp
+│   ├── ex7_11.h
+│   ├── ex7_12.h
+│   ├── ex7_13.cpp
+│   ├── ex7_15.h
+│   ├── ex7_21.h
+│   ├── ex7_22.h
+│   ├── ex7_23.h
+│   ├── ex7_24.h
+│   ├── ex7_26.cpp
+│   ├── ex7_26.h
+│   ├── ex7_27.h
+│   ├── ex7_27_TEST.cpp
+│   ├── ex7_31.h
+│   ├── ex7_32.h
+│   ├── ex7_41.cpp
+│   ├── ex7_41.h
+│   ├── ex7_41_TEST.cpp
+│   ├── ex7_43.cpp
+│   ├── ex7_50.h
+│   ├── ex7_53.h
+│   └── ex7_57.h
+├── ch08
+│   ├── README.md
+│   ├── ex8_02.cpp
+│   ├── ex8_04.cpp
+│   ├── ex8_05.cpp
+│   ├── ex8_06.cpp
+│   ├── ex8_07.cpp
+│   ├── ex8_08.cpp
+│   ├── ex8_09.cpp
+│   ├── ex8_10.cpp
+│   ├── ex8_11.cpp
+│   └── ex8_13.cpp
+├── ch09
+│   ├── README.md
+│   ├── ex9_13.cpp
+│   ├── ex9_14.cpp
+│   ├── ex9_15.cpp
+│   ├── ex9_16.cpp
+│   ├── ex9_18.cpp
+│   ├── ex9_19.cpp
+│   ├── ex9_20.cpp
+│   ├── ex9_22.cpp
+│   ├── ex9_24.cpp
+│   ├── ex9_26.cpp
+│   ├── ex9_27.cpp
+│   ├── ex9_31_1.cpp
+│   ├── ex9_31_2.cpp
+│   ├── ex9_32.cpp
+│   ├── ex9_33.cpp
+│   ├── ex9_34.cpp
+│   ├── ex9_38.cpp
+│   ├── ex9_41.cpp
+│   ├── ex9_43.cpp
+│   ├── ex9_44.cpp
+│   ├── ex9_45.cpp
+│   ├── ex9_46.cpp
+│   ├── ex9_47_1.cpp
+│   ├── ex9_47_2.cpp
+│   ├── ex9_49.cpp
+│   ├── ex9_50.cpp
+│   ├── ex9_51.cpp
+│   └── ex9_52.cpp
+├── ch10
+│   ├── README.md
+│   ├── ex10_01_02.cpp
+│   ├── ex10_03_04.cpp
+│   ├── ex10_06.cpp
+│   ├── ex10_07.cpp
+│   ├── ex10_09.cpp
+│   ├── ex10_11.cpp
+│   ├── ex10_12.cpp
+│   ├── ex10_13.cpp
+│   ├── ex10_16.cpp
+│   ├── ex10_17.cpp
+│   ├── ex10_18_19.cpp
+│   ├── ex10_20_21.cpp
+│   ├── ex10_22.cpp
+│   ├── ex10_24.cpp
+│   ├── ex10_25.cpp
+│   ├── ex10_27.cpp
+│   ├── ex10_28.cpp
+│   ├── ex10_29.cpp
+│   ├── ex10_30.cpp
+│   ├── ex10_31.cpp
+│   ├── ex10_32.cpp
+│   ├── ex10_33.cpp
+│   ├── ex10_34_35_36_37.cpp
+│   └── ex10_42.cpp
+├── ch11
+│   ├── README.md
+│   ├── ex11_11.cpp
+│   ├── ex11_12_13.cpp
+│   ├── ex11_14.cpp
+│   ├── ex11_20.cpp
+│   ├── ex11_23.cpp
+│   ├── ex11_24_25_26.cpp
+│   ├── ex11_27_28_29_30.cpp
+│   ├── ex11_31.cpp
+│   ├── ex11_32.cpp
+│   ├── ex11_33.cpp
+│   ├── ex11_38.cpp
+│   ├── ex11_3_4.cpp
+│   ├── ex11_7.cpp
+│   ├── ex11_8.cpp
+│   └── ex11_9_10.cpp
+├── ch12
+│   ├── README.md
+│   ├── ex12_02.h
+│   ├── ex12_02_TEST.cpp
+│   ├── ex12_06.cpp
+│   ├── ex12_07.cpp
+│   ├── ex12_10.cpp
+│   ├── ex12_11.cpp
+│   ├── ex12_12.cpp
+│   ├── ex12_13.cpp
+│   ├── ex12_14.cpp
+│   ├── ex12_15.cpp
+│   ├── ex12_16.cpp
+│   ├── ex12_17_18.cpp
+│   ├── ex12_19.cpp
+│   ├── ex12_19.h
+│   ├── ex12_20.cpp
+│   ├── ex12_22.cpp
+│   ├── ex12_22.h
+│   ├── ex12_23.cpp
+│   ├── ex12_24.cpp
+│   ├── ex12_26.cpp
+│   ├── ex12_27_30.cpp
+│   ├── ex12_27_30.h
+│   ├── ex12_27_30_TEST.cpp
+│   ├── ex12_28.cpp
+│   ├── ex12_32.cpp
+│   ├── ex12_32.h
+│   ├── ex12_32_TEST.cpp
+│   ├── ex12_33.cpp
+│   ├── ex12_33.h
+│   └── ex12_33_TEST.cpp
+├── ch13
+│   ├── README.md
+│   ├── ex13_05.h
+│   ├── ex13_08.h
+│   ├── ex13_11.h
+│   ├── ex13_13.cpp
+│   ├── ex13_17_1.cpp
+│   ├── ex13_17_2.cpp
+│   ├── ex13_17_3.cpp
+│   ├── ex13_18.cpp
+│   ├── ex13_18.h
+│   ├── ex13_19.h
+│   ├── ex13_22.h
+│   ├── ex13_26.cpp
+│   ├── ex13_26.h
+│   ├── ex13_27.h
+│   ├── ex13_28.cpp
+│   ├── ex13_28.h
+│   ├── ex13_30.h
+│   ├── ex13_31.cpp
+│   ├── ex13_31.h
+│   ├── ex13_34_36_37.cpp
+│   ├── ex13_34_36_37.h
+│   ├── ex13_39.cpp
+│   ├── ex13_39.h
+│   ├── ex13_40.cpp
+│   ├── ex13_40.h
+│   ├── ex13_42.cpp
+│   ├── ex13_42_StrVec.cpp
+│   ├── ex13_42_StrVec.h
+│   ├── ex13_42_TextQuery.cpp
+│   ├── ex13_42_TextQuery.h
+│   ├── ex13_44_47.cpp
+│   ├── ex13_44_47.h
+│   ├── ex13_48.cpp
+│   ├── ex13_49_Message.cpp
+│   ├── ex13_49_Message.h
+│   ├── ex13_49_StrVec.cpp
+│   ├── ex13_49_StrVec.h
+│   ├── ex13_49_String.cpp
+│   ├── ex13_49_String.h
+│   ├── ex13_53.cpp
+│   ├── ex13_53.h
+│   ├── ex13_53_test.cpp
+│   └── ex13_58.cpp
+├── ch14
+│   ├── README.md
+│   ├── ex14_02.cpp
+│   ├── ex14_02.h
+│   ├── ex14_02_TEST.cpp
+│   ├── ex14_05.cpp
+│   ├── ex14_05.h
+│   ├── ex14_05_TEST.cpp
+│   ├── ex14_07.cpp
+│   ├── ex14_07.h
+│   ├── ex14_07_TEST.cpp
+│   ├── ex14_13.cpp
+│   ├── ex14_13.h
+│   ├── ex14_13_TEST.cpp
+│   ├── ex14_15.cpp
+│   ├── ex14_15.h
+│   ├── ex14_15_TEST.cpp
+│   ├── ex14_16_StrBlob.cpp
+│   ├── ex14_16_StrBlob.h
+│   ├── ex14_16_StrBlobTest.cpp
+│   ├── ex14_16_StrVec.cpp
+│   ├── ex14_16_StrVec.h
+│   ├── ex14_16_StrVecMain.cpp
+│   ├── ex14_16_String.cpp
+│   ├── ex14_16_String.h
+│   ├── ex14_16_StringMain.cpp
+│   ├── ex14_18_StrBlob.cpp
+│   ├── ex14_18_StrBlob.h
+│   ├── ex14_18_StrBlobTest.cpp
+│   ├── ex14_18_StrVec.cpp
+│   ├── ex14_18_StrVec.h
+│   ├── ex14_18_StrVecMain.cpp
+│   ├── ex14_18_String.cpp
+│   ├── ex14_18_String.h
+│   ├── ex14_18_StringMain.cpp
+│   ├── ex14_22.cpp
+│   ├── ex14_22.h
+│   ├── ex14_22_TEST.cpp
+│   ├── ex14_23.cpp
+│   ├── ex14_23.h
+│   ├── ex14_23_TEST.cpp
+│   ├── ex14_24.cpp
+│   ├── ex14_24.h
+│   ├── ex14_24_TEST.cpp
+│   ├── ex14_26_StrBlob.cpp
+│   ├── ex14_26_StrBlob.h
+│   ├── ex14_26_StrBlobTest.cpp
+│   ├── ex14_26_StrVec.cpp
+│   ├── ex14_26_StrVec.h
+│   ├── ex14_26_StrVecMain.cpp
+│   ├── ex14_26_String.cpp
+│   ├── ex14_26_String.h
+│   ├── ex14_26_StringMain.cpp
+│   ├── ex14_27_28_StrBlob.cpp
+│   ├── ex14_27_28_StrBlob.h
+│   ├── ex14_27_28_StrBlobTest.cpp
+│   ├── ex14_30_StrBlob.cpp
+│   ├── ex14_30_StrBlob.h
+│   ├── ex14_30_StrBlobTest.cpp
+│   ├── ex14_32.cpp
+│   ├── ex14_32.h
+│   ├── ex14_35.cpp
+│   ├── ex14_36.cpp
+│   ├── ex14_37.cpp
+│   ├── ex14_38_39.cpp
+│   ├── ex14_40.cpp
+│   ├── ex14_42.cpp
+│   ├── ex14_43.cpp
+│   ├── ex14_44.cpp
+│   ├── ex14_45.cpp
+│   ├── ex14_45.h
+│   ├── ex14_45_TEST.cpp
+│   ├── ex14_49.cpp
+│   ├── ex14_49.h
+│   └── ex14_49_TEST.cpp
+├── ch15
+│   ├── README.md
+│   ├── ex15.1.2.3
+│   │   ├── CppPrimer.pro
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.11
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.12.13.14
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.15.16.17
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── disc_quote.cpp
+│   │   ├── disc_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.18.19.20
+│   │   └── main.cpp
+│   ├── ex15.21.22
+│   │   └── main.cpp
+│   ├── ex15.23.cpp
+│   ├── ex15.24.25.cpp
+│   ├── ex15.26
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── disc_quote.cpp
+│   │   ├── disc_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.27
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── disc_quote.cpp
+│   │   ├── disc_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.28.29
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── disc_quote.cpp
+│   │   ├── disc_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.30
+│   │   ├── basket.cpp
+│   │   ├── basket.h
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── disc_quote.cpp
+│   │   ├── disc_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.31.32.33.cpp
+│   ├── ex15.34.35.36.38
+│   │   ├── StrBlob.h
+│   │   ├── andquery.cpp
+│   │   ├── andquery.h
+│   │   ├── binaryquery.cpp
+│   │   ├── binaryquery.h
+│   │   ├── main.cpp
+│   │   ├── notquery.cpp
+│   │   ├── notquery.h
+│   │   ├── orquery.cpp
+│   │   ├── orquery.h
+│   │   ├── query.cpp
+│   │   ├── query.h
+│   │   ├── query_base.cpp
+│   │   ├── query_base.h
+│   │   ├── queryresult.cpp
+│   │   ├── queryresult.h
+│   │   ├── textquery.cpp
+│   │   ├── textquery.h
+│   │   ├── wordquery.cpp
+│   │   └── wordquery.h
+│   ├── ex15.39.40
+│   │   ├── StrBlob.h
+│   │   ├── main.cpp
+│   │   ├── query.cpp
+│   │   ├── query.h
+│   │   ├── test.txt
+│   │   ├── textquery.cpp
+│   │   └── textquery.h
+│   ├── ex15.4.5.6
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.42_b
+│   │   ├── andquery.cpp
+│   │   ├── andquery.h
+│   │   ├── binaryquery.cpp
+│   │   ├── binaryquery.h
+│   │   ├── main.cpp
+│   │   ├── notquery.cpp
+│   │   ├── notquery.h
+│   │   ├── orquery.cpp
+│   │   ├── orquery.h
+│   │   ├── query.cpp
+│   │   ├── query.h
+│   │   ├── query_base.cpp
+│   │   ├── query_base.h
+│   │   ├── queryhistory.cpp
+│   │   ├── queryhistory.h
+│   │   ├── queryresult.cpp
+│   │   ├── queryresult.h
+│   │   ├── test.txt
+│   │   ├── textquery.cpp
+│   │   ├── textquery.h
+│   │   ├── wordquery.cpp
+│   │   └── wordquery.h
+│   ├── ex15.42_c
+│   │   ├── andquery.cpp
+│   │   ├── andquery.h
+│   │   ├── binaryquery.cpp
+│   │   ├── binaryquery.h
+│   │   ├── main.cpp
+│   │   ├── notquery.cpp
+│   │   ├── notquery.h
+│   │   ├── orquery.cpp
+│   │   ├── orquery.h
+│   │   ├── query.cpp
+│   │   ├── query.h
+│   │   ├── query_base.cpp
+│   │   ├── query_base.h
+│   │   ├── queryresult.cpp
+│   │   ├── queryresult.h
+│   │   ├── test.txt
+│   │   ├── textquery.cpp
+│   │   ├── textquery.h
+│   │   ├── wordquery.cpp
+│   │   └── wordquery.h
+│   ├── ex15.7
+│   │   ├── bulk_quote.cpp
+│   │   ├── bulk_quote.h
+│   │   ├── limit_quote.cpp
+│   │   ├── limit_quote.h
+│   │   ├── main.cpp
+│   │   ├── quote.cpp
+│   │   └── quote.h
+│   ├── ex15.8.9.10
+│   │   └── ex15.8.9.10.cpp
+│   └── ex15.9
+│       ├── bulk_quote.cpp
+│       ├── bulk_quote.h
+│       ├── limit_quote.cpp
+│       ├── limit_quote.h
+│       ├── main.cpp
+│       ├── quote.cpp
+│       └── quote.h
+├── ch16
+│   ├── ex16.1.2.3
+│   │   └── main.cpp
+│   ├── ex16.12.13
+│   │   ├── Blob.h
+│   │   ├── blobptr.h
+│   │   └── main.cpp
+│   ├── ex16.14.15
+│   │   ├── Screen.h
+│   │   └── main.cpp
+│   ├── ex16.16
+│   │   ├── main.cpp
+│   │   └── vec.h
+│   ├── ex16.17.18
+│   │   └── main.cpp
+│   ├── ex16.19.20
+│   │   └── main.cpp
+│   ├── ex16.21.22
+│   │   ├── DebugDelete.h
+│   │   ├── StrBlob.h
+│   │   ├── main.cpp
+│   │   ├── wy_queryresult.cpp
+│   │   ├── wy_queryresult.h
+│   │   ├── wy_textquery.cpp
+│   │   └── wy_textquery.h
+│   ├── ex16.24
+│   │   ├── Blob.h
+│   │   ├── blobptr.h
+│   │   └── main.cpp
+│   ├── ex16.25.26
+│   │   └── main.cpp
+│   ├── ex16.28
+│   │   ├── delete.hpp
+│   │   ├── main.cpp
+│   │   ├── shared_pointer.hpp
+│   │   └── unique_pointer.h
+│   ├── ex16.29
+│   │   ├── Blob.h
+│   │   ├── DebugDelete.h
+│   │   ├── main.cpp
+│   │   ├── shared_pointer.h
+│   │   └── unique_pointer.h
+│   ├── ex16.32.33.34.35.36
+│   │   └── main.cpp
+│   ├── ex16.37.38.39
+│   │   └── main.cpp
+│   ├── ex16.4
+│   │   └── main.cpp
+│   ├── ex16.40
+│   │   └── main.cpp
+│   ├── ex16.41
+│   │   └── main.cpp
+│   ├── ex16.42.43.44.45.46
+│   │   └── main.cpp
+│   ├── ex16.47
+│   │   └── main.cpp
+│   ├── ex16.48
+│   │   └── main.cpp
+│   ├── ex16.49.50
+│   │   └── main.cpp
+│   ├── ex16.5
+│   │   └── main.cpp
+│   ├── ex16.51.52
+│   │   └── main.cpp
+│   ├── ex16.53.54.55
+│   │   └── main.cpp
+│   ├── ex16.56.57
+│   │   └── main.cpp
+│   ├── ex16.58.59
+│   │   ├── strvec.cpp
+│   │   ├── strvec.h
+│   │   └── vec.h
+│   ├── ex16.6
+│   │   └── main.cpp
+│   ├── ex16.60.61
+│   │   └── main.cpp
+│   ├── ex16.62
+│   │   ├── Sales_data.cc
+│   │   ├── Sales_data.h
+│   │   └── main.cpp
+│   ├── ex16.63.64
+│   │   └── main.cpp
+│   ├── ex16.65.66.67
+│   │   └── main.cpp
+│   ├── ex16.7.8
+│   │   └── main.cpp
+│   └── ex16.9.10.11
+│       └── main.cpp
+├── ch17
+│   ├── 17_24.cpp
+│   ├── 17_25.cpp
+│   ├── 17_27.cpp
+│   ├── 17_35_36.cpp
+│   ├── 17_37_38
+│   │   ├── 17_37_38.cpp
+│   │   └── test.txt
+│   ├── data
+│   │   └── record.txt
+│   ├── ex17.3
+│   │   ├── main.cpp
+│   │   ├── textquery.cpp
+│   │   └── textquery.h
+│   ├── ex17_10.cpp
+│   ├── ex17_11_12_13.cpp
+│   ├── ex17_14_15_16.cpp
+│   ├── ex17_17_18.cpp
+│   ├── ex17_19_20.cpp
+│   ├── ex17_1_2.cpp
+│   ├── ex17_21.cpp
+│   ├── ex17_23.cpp
+│   ├── ex17_28_29_30.cpp
+│   ├── ex17_33.cpp
+│   ├── ex17_4_5_6_7_8.cpp
+│   ├── ex17_4_5_6_7_8_SalesData.cpp
+│   ├── ex17_4_5_6_7_8_SalesData.h
+│   └── ex17_9.cpp
+├── ch18
+│   ├── 18_18\ 18_19.cpp
+│   ├── 18_20.cpp
+│   ├── README.md
+│   ├── ex18.1.2.3.cpp
+│   ├── ex18.12.13.14.cpp
+│   ├── ex18.15.16.17.cpp
+│   ├── ex18.25.cpp
+│   └── ex18_29.cpp
+├── ch19
+│   ├── ex19_18.cpp
+│   ├── ex19_20.cpp
+│   ├── ex19_21_22_23_24_25.cpp
+│   └── ex19_3_4.cpp
+├── data
+│   ├── book.txt
+│   ├── even.txt
+│   ├── given_to_transform.txt
+│   ├── input.txt
+│   ├── letter.txt
+│   ├── odd.txt
+│   ├── phonenumbers.txt
+│   ├── storyDataFile.txt
+│   ├── word_transformation.txt
+│   └── word_transformation_bad.txt
+└── include
+    └── Sales_item.h
+
+74 directories, 615 files
